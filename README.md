@@ -2,7 +2,7 @@
 
 Gruvbox + Onedark = Gruvdark
 
-This is based on the awesome Onedark colorscheme created by Christian Chiarulli.
+This is based on the awesome Onedark colorscheme created by [Christian Chiarulli](https://github.com/ChristianChiarulli).
 
 [ChristianChiarulli/onedark.nvim](https://github.com/ChristianChiarulli/onedark.nvim)
 
