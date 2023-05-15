@@ -1,5 +1,5 @@
 local M = {}
-local theme = require('onedark.theme')
+local theme = require('gruvdark.theme')
 
 M.setup = function()
   vim.cmd('hi clear')
@@ -10,7 +10,7 @@ M.setup = function()
   end
 
   vim.o.termguicolors = true
-  vim.g.colors_name = 'onedark'
+  vim.g.colors_name = 'gruvdark'
 
   theme.set_highlights()
 end

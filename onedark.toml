@@ -1,11 +1,11 @@
 [information]
-name = "onedark"
+name = "gruvdark"
 background = "dark"
 author = 'Christian Chiarulli <chrisatmachine@gmail.com>'
 
 [palette]
 fg = "#abb2bf"
-bg = "#282C34"
+bg = "#1d2021"
 alt_fg = "#9CA5B4"
 alt_bg = "#21252A"
 
