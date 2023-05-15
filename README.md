@@ -1,4 +1,9 @@
-<div align="center">
+# Gruvdark
+
+Gruvbox + Onedark = Gruvdark
+
+
+<!-- <div align="center">
 
 ![logo](https://user-images.githubusercontent.com/29136904/237932638-9fc9c69c-3ed1-4fe6-9ee5-2d9a46ca6c7a.png)
   
@@ -52,4 +57,4 @@ Use your favorite plugin manager:
 ## References
 
 - [gruvdark.vim](https://github.com/joshdick/gruvdark.vim)
-- [:atom: Atom RIP 💀](https://github.com/atom/atom)
+- [:atom: Atom RIP 💀](https://github.com/atom/atom) -->
