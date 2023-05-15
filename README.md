@@ -37,7 +37,7 @@
 Use your favorite plugin manager:
 
 ```
-"ChristianChiarulli/gruvdark.nvim"
+"adibhanna/gruvdark.nvim"
 ```
 
 ## Colors

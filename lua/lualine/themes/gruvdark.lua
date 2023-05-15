@@ -7,7 +7,7 @@ local colors = {
 	yellow = "#BF966B",
 	fg = "#838994", -- darker
 	-- bg = "#21252A", --darker
-	bg = "#2E343F",
+	bg = "#1d2021",
 	-- gray = "#31353A", --darker
 	gray = "#3B414D",
 
