@@ -6,18 +6,21 @@ local colors = {
 	-- alt_bg = "#21252A", -- dark
 	alt_bg = "#2F343E",
 	light_red = "#CF7277",
-	blue = "#7D93B0",
-	green = "#9DC2BE",
-	cyan = "#6FB4C0",
-	orange = "#FFC18C",
-	yellow = "#F5DFB3",
-	magenta = "#D989B8",
-	dark_red = "#B0574B",
+
+	blue = "#268bd2",
+	green = "#859900",
+	cyan = "#2aa198",
+	orange = "#cb4b16",
+	yellow = "#b58900",
+	magenta = "#d33682",
+	dark_red = "#d30102",
+
 	light_gray = "#5c6370",
 	dark_gray = "#4b5263",
 	visual = "#42566f",
 	select = "#454a56",
 	indent = "#333d4c",
+	
 	folder = "#45A8F8",
 	hint = "#4fc1ff",
 	info = "#ff8800",
